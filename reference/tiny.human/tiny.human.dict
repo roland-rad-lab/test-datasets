@@ -1,0 +1,4 @@
+@HD	VN:1.0	SO:unsorted
+@SQ	SN:17	LN:100000	M5:9e679340423256851a48de06f8776cd9	UR:file:///home/rad/Documents/workspace-pipelines/create_tiny_genomes/reference/tiny.human/tiny.human.fasta
+@SQ	SN:X	LN:25000	M5:08f657804b1e70ea2b45e3dc2cbef2a7	UR:file:///home/rad/Documents/workspace-pipelines/create_tiny_genomes/reference/tiny.human/tiny.human.fasta
+@SQ	SN:Y	LN:25000	M5:618d93904154adb4b979b2e66b5af896	UR:file:///home/rad/Documents/workspace-pipelines/create_tiny_genomes/reference/tiny.human/tiny.human.fasta
