@@ -1,5 +1,5 @@
 Sample_Name	Sample_Group	Library_ID	Lane	Colour_Chemistry	SeqType	Organism	Type	R1	R2	BAM
-TCR002361-N_1	TCR002361	?	?	?	wgs	Human	Normal	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/GRCh38.p12/TCR002361-N_1.Normal.bam
-TCR002361-T_1	TCR002361	?	?	?	wgs	Human	Tumor	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/GRCh38.p12/TCR002361-T_1.Tumor.bam
-TCRBOA6-N_1	TCRBOA6	?	?	?	wgs	Human	Normal	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/GRCh38.p12/TCRBOA6-N_1.Normal.bam
-TCRBOA6-T_1	TCRBOA6	?	?	?	wgs	Human	Tumor	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/GRCh38.p12/TCRBOA6-T_1.Tumor.bam
+TCR002361-N_1	TCR002361	?	?	?	wgs	Human	Normal	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/tiny.human/TCR002361-N_1.Normal.bam
+TCR002361-T_1	TCR002361	?	?	?	wgs	Human	Tumor	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/tiny.human/TCR002361-T_1.Tumor.bam
+TCRBOA6-N_1	TCRBOA6	?	?	?	wgs	Human	Normal	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/tiny.human/TCRBOA6-N_1.Normal.bam
+TCRBOA6-T_1	TCRBOA6	?	?	?	wgs	Human	Tumor	NA	NA	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/mocaseq-nextflow/testdata/bam/tiny.human/TCRBOA6-T_1.Tumor.bam
