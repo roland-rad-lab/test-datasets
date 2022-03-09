@@ -1,0 +1,2 @@
+Sample_Name	Sample_Group	Type	R1	R2
+PAT	PAT		https://raw.githubusercontent.com/roland-rad-lab/test-datasets/crispr-analysis/testdata/fastq/map_comb/PAT_R1_001.fastq.gz	https://raw.githubusercontent.com/roland-rad-lab/test-datasets/crispr-analysis/testdata/fastq/map_comb/PAT_R2_001.fastq.gz
